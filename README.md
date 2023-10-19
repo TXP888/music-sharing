@@ -55,3 +55,12 @@ npm run test:e2e
 ```sh
 npm run lint
 ```
+
+### dependencies
+
+```sh
+npm i -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm i vee-validate
+npm install @vee-validate/rules
+```
